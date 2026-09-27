@@ -1,0 +1,6 @@
+{
+  "name": "WeatherLab: Temperature & Humidity Graphs for Grade 6",
+  "description": "An interactive weather science simulation helping 6th grade students master temperature and humidity time graphs with live sliders, visual tooltips, and interactive questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
